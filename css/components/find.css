@@ -1,0 +1,12 @@
+.find-icons__icon {
+    display: flex;
+}
+
+
+.open-chat__header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.open-post__title
